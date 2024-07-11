@@ -38,7 +38,6 @@ Este projeto tem como objetivo realizar uma análise básica de dados utilizando
    24,Desenvolvimento Mobile com React Native,20,69.90,2023-01-24
    25,Arquitetura de Microserviços,10,89.90,2023-01-25
    ```
-Utilize esses dados e transforme em arquivo .CSV, você vai utilizar para realizar a análise utilizando o Python com pandas e Matplotlib/Seaborn para visualização de dados.
 
 - **ID:** Identificador único de cada curso vendido.
 - **Nome do Curso:** Nome do curso vendido na plataforma.
@@ -52,64 +51,14 @@ Utilize esses dados e transforme em arquivo .CSV, você vai utilizar para realiz
    3. Visualizar a distribuição das vendas ao longo do tempo através de gráficos.
 
 ## Entregáveis:
-   1. **Código Fonte:**
-      - Código fonte do projeto, organizado conforme a estrutura acima.
-   2. **Repositório GitHub:**
-      - Repositório público contendo o código fonte e documentação.
-   3. **Documentação:**
-      - Documentação Simples: Breve documentação explicando o funcionamento do script e as conclusões básicas obtidas.
-
-### Detalhes Técnicos: 🔧
-- **Boas Práticas:** Utilizar boas práticas de código limpo, legível e bem documentado.
-- **Git:** Utilizar Git para controle de versão e submeter o projeto através de um repositório público no GitHub.
-
-### Dicas para Abordar o Projeto 🌟
-- **Crie um Fork desse Repositório.**
-- **Criar do Zero:** É fundamental que o projeto seja desenvolvido completamente do zero, demonstrando suas habilidades e criatividade desde o início.
-- **Documente cada etapa do processo para facilitar a compreensão.**
-
-### Critérios de Avaliação: 📝
-- **Funcionalidade:** A aplicação atende aos requisitos funcionais e funciona corretamente?
-- **Qualidade do Código:** O código é limpo, bem estruturado e adequadamente documentado?
-- **Precisão dos Resultados:** As estatísticas descritivas e as visualizações de dados devem refletir com precisão as informações presentes no conjunto de dados utilizado?
-- **Uso do Git:** O controle de versão é usado de forma eficaz com mensagens de commit significativas?
-
-### Não Queremos 🚫
-- Descobrir que o candidato não foi quem realizou o teste.
-- Ver commits grandes sem muita explicação nas mensagens no repositório.
-- Entregas padrão ou cópias de outros projetos. Buscamos originalidade e autenticidade em cada contribuição.
-
-### Prazo ⏳
-A data máxima para entrega das trilhas foi removida, permitindo que as pessoas entreguem conforme sua disponibilidade. No entanto, ainda é necessário concluir a trilha com sucesso para ser inserido em uma equipe.
+   
 
 ### **Configuração do Ambiente:**
-1. **Instalar Python:** Certifique-se de ter o Python instalado em sua máquina.
-2. **Instalar Jupyter Notebook:** Utilize o comando `pip install notebook` para instalar o Jupyter Notebook.
-3. **Instalar Bibliotecas:** Utilize o comando `pip install pandas matplotlib seaborn scikit-learn` para instalar as bibliotecas necessárias.
-4. **Criar Repositório no GitHub:** Crie um repositório público para o projeto.
-5. **Clonar o Repositório:** Clone o repositório para a sua máquina local e configure o ambiente de trabalho.
 
-### Instruções de Entrega: 📬
-Após finalizar o projeto, em seu repositório do GitHub, você cria um arquivo README.md que descreve o projeto, explica como executar o código Python, e detalha as análises realizadas e os insights obtidos. Você pode incluir gráficos gerados pelo Matplotlib ou Seaborn e preencha o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):
 
 ---
 
-### Desafio da Inovação 🚀
-Achou esse projeto inicial simples? Eleve ainda mais! Estamos em busca de mentes inovadoras que não apenas criem, mas que também desafiem os padrões. Como você pode transformar essa estrutura inicial em algo verdadeiramente extraordinário? Demonstre o poder da sua criatividade e o impacto das suas ideias inovadoras!
-
----
-
-🔗 **Mantenha-se Conectado:**
-- [Discord](https://discord.gg/wzA9FGZHNv)
-- [Website](http://www.codigocertocoders.com.br/)
-- [LinkedIn](https://www.linkedin.com/company/codigocerto/)
   
 🌐 **Contato:**
-- Email: codigocertocoders@gmail.com
-
----
-
-### Precisa de Ajuda?
-Está com alguma dificuldade, encontrou algum problema no desafio ou tem alguma sugestão pra gente? Crie uma issue e descreva o que achar necessário.
-
-**Construindo o amanhã, hoje.**
+- Linkedin: 
+- Email: arthurnina.dev@gmail.com
