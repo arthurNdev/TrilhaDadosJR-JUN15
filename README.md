@@ -60,5 +60,5 @@ Este projeto tem como objetivo realizar uma análise básica de dados utilizando
 
   
 🌐 **Contato:**
-- Linkedin: 
+- Linkedin: https://www.linkedin.com/in/arthur-nina/
 - Email: arthurnina.dev@gmail.com
